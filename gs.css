@@ -17,6 +17,12 @@
 
 .name{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+.name:hover{
+ text-shadow: 2px 2px red;
+ 
 
 }
 
@@ -31,6 +37,17 @@ color:black;
 .DIA{
 color:brown;
 }
+.AP:hover{
+    text-shadow: 2px 2px magenta;
+    
+   
+   }
+
+   .DIA:hover{
+    text-shadow: 2px 2px greenyellow;
+    
+   
+   }
 
 table {
     font-family: arial, sans-serif;
